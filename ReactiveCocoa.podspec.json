@@ -25,7 +25,8 @@
     "Result": [
       "~> 3.0"
     ],
-    "ReactiveSwift"
+    "ReactiveSwift" : [
+     ]
   },
   "frameworks": "Foundation",
   "private_header_files": [

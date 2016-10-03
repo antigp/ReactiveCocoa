@@ -24,7 +24,8 @@
   "dependencies": {
     "Result": [
       "~> 3.0"
-    ]
+    ],
+    "ReactiveSwift"
   },
   "frameworks": "Foundation",
   "private_header_files": [
